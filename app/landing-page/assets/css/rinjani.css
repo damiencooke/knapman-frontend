@@ -540,7 +540,7 @@ span.navbar-trigger-close a:hover {
   width: 100%;
   height: auto;
   color: #fff;
-  background-image: url("../img/bg-intro.jpg");
+  background-image: url("../img/landing-background.jpeg");
   background-repeat: no-repeat;
   background-position: center center;
   -webkit-background-size: cover;
@@ -548,6 +548,8 @@ span.navbar-trigger-close a:hover {
   background-size: cover;
   -o-background-size: cover;
 }
+
+
 @media (min-width: 1280px) {
   #intro {
     height: 100%;
@@ -575,7 +577,7 @@ span.navbar-trigger-close a:hover {
     padding-bottom: 20px;
   }
 }
-#intro .intro-body .logo > h1 {
+#intro .intro-body .logo > h1{
   display: block;
   width: 110px;
   height: 110px;
