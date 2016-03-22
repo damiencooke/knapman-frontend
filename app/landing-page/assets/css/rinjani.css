@@ -670,7 +670,7 @@ span.navbar-trigger-close a:hover {
 /*  7. FUN FACT SECTION
 /*---------------------------------------------------------------------*/
 #fun-fact {
-  background-image: url("../img/bg-fun-fact.jpg");
+  background-image: url("../img/landing-background.jpeg");
 }
 #fun-fact > .section-inner .section-content .section-title {
   color: #b7ada4;
@@ -684,7 +684,7 @@ span.navbar-trigger-close a:hover {
 /*  8. OUR MAIN SKILLS SECTION
 /*---------------------------------------------------------------------*/
 #our-main-skills {
-  background-image: url("../img/bg-our-main-skills.jpg");
+  background-image: url("../img/landing-background.jpeg");
 }
 #our-main-skills > .section-inner .section-content .section-title {
   color: #b7ada4;
@@ -720,7 +720,7 @@ span.navbar-trigger-close a:hover {
 /*  9. QUOTE SECTION
 /*---------------------------------------------------------------------*/
 #quote {
-  background-image: url("../img/bg-quote.jpg");
+  background-image: url("../img/landing-background.jpeg");
 }
 #quote > .section-inner .section-content {
   padding-top: 100px;
@@ -743,7 +743,7 @@ span.navbar-trigger-close a:hover {
 /*  10. KEEP IN TOUCH SECTION
 /*---------------------------------------------------------------------*/
 #keep-in-touch {
-  background-image: url("../img/bg-keep-in-touch.jpg");
+  background-image: url("../img/landing-background.jpeg");
 }
 #keep-in-touch > .section-inner .section-content .section-title {
   color: #b7ada4;
@@ -875,7 +875,7 @@ span.navbar-trigger-close a:hover {
 /*  12. TESTIMONIALS SECTION
 /*---------------------------------------------------------------------*/
 #testimonials {
-  background-image: url("../img/bg-testimonial.jpg");
+  background-image: url("../img/landing-background.jpeg");
 }
 #testimonials > .section-inner .section-content .section-title {
   color: #b7ada4;
@@ -889,7 +889,7 @@ span.navbar-trigger-close a:hover {
 /*  13. COMING SOON SECTION
 /*---------------------------------------------------------------------*/
 #coming-soon {
-  background-image: url("../img/bg-coming-soon.jpg");
+  background-image: url("../img/landing-background.jpeg");
 }
 #coming-soon > .section-inner .section-content .section-title {
   color: #b7ada4;
@@ -921,7 +921,7 @@ span.navbar-trigger-close a:hover {
 /*  14. CONTACT US SECTION
 /*---------------------------------------------------------------------*/
 #contact-us {
-  background-image: url("../img/bg-contact-us.jpg");
+  background-image: url("../img/landing-background.jpeg");
 }
 #contact-us > .section-inner .section-content .section-title {
   color: #b7ada4;
