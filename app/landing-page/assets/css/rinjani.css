@@ -638,6 +638,15 @@ span.navbar-trigger-close a:hover {
 /*---------------------------------------------------------------------*/
 /*  6. WHO WE ARE SECTION
 /*---------------------------------------------------------------------*/
+#why-us {
+    background-image: url("../img/landing-background.jpeg");
+}
+#why-us > .section-inner .section-content .section-title {
+  color: #b7ada4;
+}
+#why-us > .section-inner .section-content .section-title > .section-line {
+  background-color: #b7ada4;
+}
 #who-we-are .carousel-container {
   padding-bottom: 40px;
 }
@@ -875,13 +884,12 @@ span.navbar-trigger-close a:hover {
 /*  12. TESTIMONIALS SECTION
 /*---------------------------------------------------------------------*/
 #testimonials {
-  background-image: url("../img/landing-background.jpeg");
 }
 #testimonials > .section-inner .section-content .section-title {
-  color: #b7ada4;
+  color: #222;
 }
 #testimonials > .section-inner .section-content .section-title > .section-line {
-  background-color: #b7ada4;
+  background-color: #b222;
 }
 
 
