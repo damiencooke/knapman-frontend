@@ -674,6 +674,10 @@ span.navbar-trigger-close a:hover {
   padding-top: 10px;
 }
 
+.content-boxes > .content-boxes-text {
+    margin-left: 50px;
+    color: #fff;
+}
 
 /*---------------------------------------------------------------------*/
 /*  7. FUN FACT SECTION
