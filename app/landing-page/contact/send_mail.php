@@ -7,7 +7,7 @@ $username = 'USERNAME@DOMAIN.com';
 
 $password = 'YOUR_PASSWORD';
 
-$subject = 'Request from Rinjani Theme: ' . addslashes(strip_tags($_POST['subject']));
+$subject = 'Request from damien Theme: ' . addslashes(strip_tags($_POST['subject']));
 
 $send = false;
 
