@@ -17,7 +17,7 @@ html {
 body {
   background-color: #f2f4f4;
   font-family: 'Lato', sans-serif;
-  color: #222222;
+  color: #000;
   overflow-x: hidden;
 }
 a {
@@ -69,7 +69,7 @@ p {
   }
 }
 .section {
-  background-image: url("../img/socket-background.jpg");
+    background-image: url("../img/coffee-smartphone-desk-pen.jpg");
     background-color: #222;
     background-repeat: no-repeat;
     background-position: center center;
@@ -92,7 +92,7 @@ p {
   }
 }
 .section > .section-inner .section-content .section-title {
-  color: #222;
+  color: #000;
   text-transform: uppercase;
   padding-bottom: 40px;
 }
